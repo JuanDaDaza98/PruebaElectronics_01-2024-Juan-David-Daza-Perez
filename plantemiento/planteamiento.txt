@@ -1,0 +1,212 @@
+DISEÑO E IMPLEMENTACIÓN DE UN ROBOT LIMPIADOR DE PANELES SOLARES
+
+
+
+
+
+
+
+PRUEBA TÉCNICA
+
+
+
+
+
+
+ELABORADO POR:
+JUAN DAVID DAZA PEREZ
+INGENIERO ELECTRÓNICO
+
+
+
+
+
+
+
+SUNNYAPP
+NEIVA - HUILA
+2024
+ÍNDICE
+Capítulo 1. Contextualización. 
+Índice………………………………………………………………………………………2
+Revisión del arte………………………………………………………………………..3-4
+Resumen…………………………………………………………………………………..5
+Planteamiento del problema…………………………………………………………….6
+Pregunta de investigación……………………………………………………………….7
+Objetivos………………………………………………………………………………......7
+Capítulo 2. Desarrollo.
+Metodología……………………………………………………………………………...8
+Presupuesto……………………………………………………………………………..9
+Cronograma de actividades……………………………………………………………10
+Desarrollo de la metodología…………………………………………………………..11
+Análisis de resultados…………………………………………………………………...12
+Conclusiones……………………………………………………………………………..13
+Bibliografía………………………………………………………………………………..14
+
+
+
+
+
+
+
+REVISIÓN DEL ARTE
+
+En los últimos años las energías renovables se han convertido en el tema más novedoso debido a la urgencia de obtener energía de una forma en que no se afecte el medio ambiente. Se han realizado numerosas investigaciones, búsquedas de materiales y un sinfín de pruebas para descubrir cual de estas formas de adquirir energía es la más sostenible a largo plazo, una de las energías que más ha tenido acogida en Colombia es la obtenida a través de un recurso con el que cada día se cuenta: El Sol.
+En la actualidad se cuentan con múltiples granjas solares, incluso edificios y hogares que usan esta alternativa para generar la totalidad o una buena parte de la energía que utilizan diariamente en cada uno de estos espacios. Los elementos creados para la recepción son los paneles solares o módulos fotovoltaicos, estos son dispositivos diseñados para captar esa luz solar y convertirla en electricidad. Cuando la luz solar incide en una celda, los fotones impactan sobre los átomos presentes en esta lo cual hace que se liberen electrones y se genere corriente eléctrica. En la industria resaltan tres tipos de paneles solares, monocristalinos, policristalinos y de película delgada. Cada uno de estos posee características únicas y las mayores diferencias entre uno y otro se debe al material, la eficiencia del panel y a su coste. 
+Para poder aprovechar el máximo rendimiento de los paneles solares se deben mantener en el mejor estado posible, esto evita perdidas por reflexión de radiación además de disminuir con más eficiencia la contaminación por huella de carbono. Al estar a la intemperie es común que los paneles terminen acumulando suciedad, como hojas, barro, excremento de aves, arena, tierra o polvo ambiental. La suciedad se convierte en una barrera que puede llegar a impedir qué las células fotovoltaicas absorban la luz solar. Esto, además de reducir el rendimiento, puede provocar puntos calientes que dañan el sistema. Es importante realizar una revisión y un mantenimiento adecuado a cada panel, la frecuencia debe variar dependiendo de las particularidades del ambiente donde se encuentre instalado, el problema se refleja en los lugares donde se tiene una gran cantidad de estos paneles, allí la limpieza se convierte en un reto donde la rentabilidad y el rendimiento son un factor importante a la hora de realizarse.
+A medida que la dependencia de fuentes renovables crece, surge la necesidad de mantener y maximizar la eficiencia de estos paneles solares, dando origen a una nueva generación de tecnologías: los robots limpiadores de paneles solares. El impulso hacia la autonomía y la eficiencia ha llevado a la creación de estos dispositivos, diseñados para abordar el desafío constante de la acumulación de polvo y suciedad en las superficies fotovoltaicas. Desde su inicio, estos robots han evolucionado rápidamente, adoptando tecnologías innovadoras como inteligencia artificial y sensores avanzados para realizar tareas de limpieza de manera autónoma, garantizando así un rendimiento óptimo de los paneles solares y contribuyendo al desarrollo sostenible a escala global.
+Existen robots autónomos o controlados por operarios, con características de limpieza en seco o húmedo, con diferentes tipos de cepillos y cerdas, con alimentación externa y con batería, incluso robots que se adaptan a la inclinación presente en los paneles. La adopción de estos robots limpiadores de paneles solares ha sido un punto de inflexión en la industria de la energía renovable. Al permitir una limpieza eficiente y regular de las superficies solares, estos robots no solo optimizan la producción de electricidad, sino que también reducen los costos asociados al mantenimiento y aumentan la vida útil de las instalaciones. Su implementación ha marcado un paso significativo hacia la autonomía y la eficiencia en la gestión de parques solares, al tiempo que contribuye a consolidar la energía solar como una fuente confiable y sostenible en la transición hacia un futuro energético más verde.
+
+
+
+
+
+RESUMEN
+
+Este proyecto se basa en la investigación, diseño e implementación de un robot que sea capaz de limpiar paneles solares, debido a que las condiciones climáticas y las características del entorno generan suciedad en las celdas y esto a su vez disminuye la eficiencia del panel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLANTEAMIENTO DEL PROBLEMA
+
+El crecimiento exponencial de la energía solar como fuente de generación eléctrica ha llevado consigo un desafío técnico: la acumulación de suciedad en los paneles solares. La eficiencia de los sistemas fotovoltaicos se ve comprometida por la presencia de polvo, contaminantes atmosféricos y otros residuos que se depositan en las superficies de los paneles. Este problema obstaculiza la capacidad de absorción de la luz solar, reduciendo significativamente la eficacia de la conversión de energía. La falta de una solución eficiente para abordar la suciedad en los paneles solares no solo impacta negativamente la productividad y rentabilidad de las instalaciones solares, sino que también representa un obstáculo significativo en la maximización del potencial de energía limpia que estas tecnologías pueden ofrecer. Ante este escenario, se plantea la necesidad crítica de desarrollar e implementar estrategias efectivas para la limpieza regular y automatizada de los paneles solares, garantizando así un rendimiento óptimo y sostenible en el uso de esta fuente renovable de energía.
+
+
+
+
+
+
+
+
+
+
+
+
+
+PREGUNTA DE INVESTIGACIÓN
+¿Es posible diseñar e implementar un dispositivo flexible, económico y funcional que permita limpiar paneles solares de grandes dimensiones?
+OBJETIVOS
+GENERAL
+•	Diseñar e implementar un dispositivo que limpie la suciedad y los agentes externos de paneles solares para evitar la pérdida de eficiencia.
+ESPECÍFICOS
+•	Diseñar el circuito electrónico del dispositivo que cumpla con los requerimientos de funcionalidad para el que se ha considerado.
+•	Diseñar la carcasa del dispositivo de acuerdo con el diseño electrónico considerado.
+•	Realizar un consolidado de los componentes a usar con datasheets, distribuidores y precios para obtener la cotización de los elementos.
+•	Realizar la lista de proveedores de impresión de circuitos impresos junto a su ensamblaje para obtener una cotización de realización de prototipado.
+
+
+
+
+
+
+
+
+
+METODOLOGÍA
+Para este proyecto es necesario tomar cada uno de los objetivos descritos y ordenarlos por fases de trabajo.
+Fase 1: Diseño del circuito electrónico.
+Fase 2: Diseño de la carcasa del dispositivo.
+Fase 3: Cotización de los elementos electrónicos.
+Fase 4: Cotización de los elementos mecánicos.
+Fase 5: Cotización de impresión de circuito impreso (PCB).
+Fase 6: Integración en 3D de la carcasa y el circuito electrónico.
+Fase 7: Impresión circuito impreso PCB.
+Fase 8: Cotización impresión piezas mecánicas.
+Fase 9: Impresión piezas mecánicas
+Fase 10: Ensamble del dispositivo.
+
+
+
+
+
+
+
+
+
+
+PRESUPUESTO
+
+A continuación, se evidencian los costos estimados de cada una de las fases con sus respectivos detalles:
+
+Tabla 1. Presupuesto de las actividades.
+
+
+
+
+
+
+
+
+
+
+
+CRONOGRAMA DE ACTIVIDADES
+
+Se presentan las actividades y el tiempo de diseño y realización de cada una.
+ 
+Tabla 2. Cronograma especifico de actividades.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESARROLLO DE LA METODOLOGIA
+
+Fase 1: Diseño del circuito electrónico: Se plantean los retos de diseño, los mejores recursos y sistemas de todo el proyecto. Se procede a realizar el esquema de circuito electrónico, elección de componentes electrónicos y diseño de la placa PCB. Además de selección de modelos 3D para tener con precisión medidas importantes para el diseño y fabricación de la carcasa.
+Fase 2: Diseño de la carcasa del dispositivo: Con ayuda de un equipo de diseño gráfico e industrial se buscan estableces los materiales más optimas, así como medidas y procesos de ensamble del dispositivo. Se deben tener en cuenta modelados 3D realizados en la fase anterior.
+Fase 3: Cotización de los elementos electrónicos: Se buscan fabricantes y distribuidores que ofrezcan una buena calidad en sus productos con un precio accesible, se realizan cotizaciones con varias empresas y se determina cual de estas es la opción mas acertada teniendo en cuenta las dimensiones del proyecto.
+Fase 4: Cotización de los elementos mecánicos: Se buscan fabricantes y distribuidores que ofrezcan una excelente calidad en los componentes mecánicos, se deber tener en cuenta referencias y de ser posible la menor cantidad de distribuidores para intentar disminuir costos
+Fase 5: Cotización de impresión de circuito impreso (PCB): Se buscan empresas que brinden un muy buen servicio de impresión PCB de ser posible combinar esta fase con la numero 3, para disminución de tiempos en la fabricación y ensamble, así como en costos.
+Fase 6: Integración en 3D de la carcasa y el circuito electrónico: Se busca montaje y ensamble de sensores, motores o actuadores en la carcaza diseñada, se verifican medidas y se aplican correcciones de ser necesario.
+Fase 7: Impresión circuito impreso PCB: fabricación de circuito impreso PCB para el montaje de este.
+Fase 8: Cotización impresión piezas mecánicas: se realizan cotizaciones con varias empresas que brinden acompañamiento y asesoramiento en la fabricación de piezas mecánicas.
+Fase 9: Impresión piezas mecánicas: Se envían diseños de piezas mecánicas para su fabricación y montaje
+Fase 10: Ensamble del dispositivo: ensamble final del dispositivo, pruebas de ensamble y funcionamiento.
+ 
+
+ANALISIS DE RESULTADOS Y CONCLUSIONES
+El diseño de este robot es viable para su fabricación si y solo si se verifican funcionamiento de sistemas y se corrigen algunos aspectos importantes en temas de movilidad y manejo del peso del dispositivo. Se debe calcular con más antelación cálculos de consumo energético y tiempos de funcionamiento. Se puede pensar mejor la forma del dispositivo y realizar pruebas piloto de sensores y actuadores para determinar si son viables para el proyecto final. 
+
+ 
+
+BIBLIOGRAFIA
+-	Disponible en la web:
+ https://www.enelgreenpower.com/es/historias/articles/2018/10/limpieza-de-paneles-solares-solucion-innovadora
+-	Disponible en la web:
+https://www.damiasolar.com/actualidad/blog/articulos-sobre-la-energia-solar-y-sus-componentes/guia-completa-para-limpiar-placas-solares-
+-	Disponible en la web:
+https://greening-e.com/temporal-de-lluvia-y-barro-la-importancia-de-la-limpieza-de-los-paneles-solares/
+-	Disponible en la web:
+https://www.cambioenergetico.com/blog/como-limpiar-placas-solares/
+-	Disponible en la web: 
+http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S1683-07892021000200147
+
